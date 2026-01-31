@@ -71,7 +71,7 @@ make clean
 
 ![](docs/cursor.png)
 
-https://github.com/user-attachments/assets/90cca653-c274-4e98-9c6e-2a8303b35490
+![](https://github.com/user-attachments/assets/9c096814-2a6d-400d-b0ce-53bced3e0c8f)
 
 ## Resources
 
