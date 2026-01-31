@@ -71,6 +71,8 @@ make clean
 
 ![](docs/cursor.png)
 
+https://github.com/user-attachments/assets/90cca653-c274-4e98-9c6e-2a8303b35490
+
 ## Resources
 
 - [Nuxt](https://nuxt.com)
